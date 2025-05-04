@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,tailwind,bootstrap,python,prolog,codeigniter,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,tailwind,bootstrap,python,docker,vscode)](https://skillicons.dev)
