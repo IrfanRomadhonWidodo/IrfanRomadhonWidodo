@@ -23,14 +23,4 @@
 
 ⚡ Fun fact: I'm the guy who enjoys both logic puzzles *and* crafting pixel-perfect UIs. Coding is my coffee ☕
 
-<br><br>
-<!-- Grafik Batang Tambahan -->
-<svg class="w-8 h-8 text-indigo-600 mx-auto mb-2" fill="currentColor" viewBox="0 0 24 24">
-  <rect x="3" y="14" width="4" height="7" rx="1"></rect>
-  <rect x="10" y="10" width="4" height="11" rx="1"></rect>
-  <rect x="17" y="6" width="4" height="15" rx="1"></rect>
-</svg>
 
-<p class="text-center text-sm text-gray-600">
-  Growth mindset in code — always stepping up, one block at a time.
-</p>
