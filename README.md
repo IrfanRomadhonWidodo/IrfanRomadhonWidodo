@@ -9,7 +9,7 @@
 - Efficient CRUD, authentication, booking systems & more!
 
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,tailwind,bootstrap,python,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,tailwind,bootstrap,python,docker,vscode,kotlin)](https://skillicons.dev)
 
 🛠️ Projects I'm proud of:
 - 🎓 **Aplikasi Data Alumni** – CI3 + Bootstrap, with search, CRUD & stats
