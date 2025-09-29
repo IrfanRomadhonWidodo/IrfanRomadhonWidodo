@@ -1,4 +1,4 @@
-!![NameTag](NameTag.png)
+![NameTag](NameTag.png)
 
 <h2 align="center">👋 Hi there, I'm Irfan Romadhon Widodo!</h2>
 
